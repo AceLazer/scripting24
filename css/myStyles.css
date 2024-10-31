@@ -1,0 +1,23 @@
+header{
+
+    background-color: rgb(198, 170, 209);
+ 
+
+}
+
+body{
+    background-color: lavender;
+    color: rgb(57, 28, 85);
+}
+
+footer{
+    background-color: rgb(143, 86, 148);
+
+}
+footer h4{
+    color: aliceblue;
+}
+footer i{
+    color: aliceblue;
+}
+
