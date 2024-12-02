@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	font-size: 20px;
+	background-color:#B3DAF2;
+	color: #403124;
+	font-family: 'Merriweather', serif;
+}
+
+#header{
+	margin: auto 0px;
+	padding: 200px 200px 200px 50px;
+	background:url("images/header.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#info{
+	margin: auto 70px;
+	padding: 100px;
+	background-color: #BFA584;
+	
+}
+
+#images{
+	margin: auto 70px;
+	padding: 25px 300px;
+	background-color: #BFA584;
+}
+#images2{
+margin: auto 70px;
+	padding: 25px 25px 25px 75px;
+	background-color: #BFA584;	
+}
+/*Nav Bar code*/
+nav ul{
+	list-style-type:none;
+	margin: auto 70px;
+	padding:0;
+	overflow: hidden;
+	background: #BFA584;
+}
+nav li{float: left;}
+nav li a:link{
+	text-decoration: none;
+	display: block;
+	padding: 16px 18px;
+	color:#403124;
+}
+nav li a:hover{background: #807153; text-decoration: none;}
+
+/*Table Code*/
+
+#table{
+	
+	margin: auto 70px;
+	padding: 50px 150px;
+	background-color: #BFA584;
+}
+
+#contacts{
+  font-family: 'Merriweather', serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#contacts td{
+	background-color: #807153;
+	color: #C5C5C5;
+}
+
+#contacts td, #contacts th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#contacts th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #403124;
+  color: white;
+}
+
+
+
